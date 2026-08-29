@@ -8,6 +8,7 @@
 | [0724-find-pivot-index](https://github.com/ayushk8987/NeatCode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/ayushk8987/NeatCode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/ayushk8987/NeatCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushk8987/NeatCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ayushk8987/NeatCode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -32,6 +33,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/ayushk8987/NeatCode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/ayushk8987/NeatCode/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
@@ -45,4 +47,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ayushk8987/NeatCode/tree/master/0724-find-pivot-index) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/ayushk8987/NeatCode/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
