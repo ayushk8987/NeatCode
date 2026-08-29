@@ -1,0 +1,19 @@
+class Solution {
+public:
+    vector<vector<int>> transpose(vector<vector<int>>& matrix) {
+        int rows = matrix.size();
+        int cols = matrix[0].size();
+        
+        // Initialize the transposed matrix with switched dimensions
+        vector<vector<int>> transposed(cols, vector<int>(rows));
+        
+        // Iterate through the original matrix and place elements in their transposed positions
+        for (int i = 0; i < rows; ++i) {
+            for (int j = 0; j < cols; ++j) {
+                transposed[j][i] = matrix[i][j];
+            }
+        }
+        
+        return transposed;
+    }
+};
