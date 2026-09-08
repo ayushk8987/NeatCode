@@ -71,11 +71,13 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ayushk8987/NeatCode/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/ayushk8987/NeatCode/tree/master/0205-isomorphic-strings) |
 | [0575-distribute-candies](https://github.com/ayushk8987/NeatCode/tree/master/0575-distribute-candies) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayushk8987/NeatCode/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/ayushk8987/NeatCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/ayushk8987/NeatCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/ayushk8987/NeatCode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/ayushk8987/NeatCode/tree/master/0541-reverse-string-ii) |
