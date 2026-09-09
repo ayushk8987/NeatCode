@@ -73,6 +73,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ayushk8987/NeatCode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/ayushk8987/NeatCode/tree/master/0205-isomorphic-strings) |
 | [0575-distribute-candies](https://github.com/ayushk8987/NeatCode/tree/master/0575-distribute-candies) |
+| [0859-buddy-strings](https://github.com/ayushk8987/NeatCode/tree/master/0859-buddy-strings) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0520-detect-capital](https://github.com/ayushk8987/NeatCode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/ayushk8987/NeatCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayushk8987/NeatCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0859-buddy-strings](https://github.com/ayushk8987/NeatCode/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/ayushk8987/NeatCode/tree/master/0917-reverse-only-letters) |
 | [2785-sort-vowels-in-a-string](https://github.com/ayushk8987/NeatCode/tree/master/2785-sort-vowels-in-a-string) |
 ## Trie
