@@ -65,6 +65,7 @@
 | [0443-string-compression](https://github.com/ayushk8987/NeatCode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/ayushk8987/NeatCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayushk8987/NeatCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/ayushk8987/NeatCode/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/ayushk8987/NeatCode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/ayushk8987/NeatCode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -85,6 +86,7 @@
 | [0520-detect-capital](https://github.com/ayushk8987/NeatCode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/ayushk8987/NeatCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayushk8987/NeatCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/ayushk8987/NeatCode/tree/master/0696-count-binary-substrings) |
 | [0859-buddy-strings](https://github.com/ayushk8987/NeatCode/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/ayushk8987/NeatCode/tree/master/0917-reverse-only-letters) |
 | [2785-sort-vowels-in-a-string](https://github.com/ayushk8987/NeatCode/tree/master/2785-sort-vowels-in-a-string) |
