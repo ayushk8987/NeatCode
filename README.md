@@ -70,6 +70,7 @@
 | [0844-backspace-string-compare](https://github.com/ayushk8987/NeatCode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/ayushk8987/NeatCode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/ayushk8987/NeatCode/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/ayushk8987/NeatCode/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@
 | [0844-backspace-string-compare](https://github.com/ayushk8987/NeatCode/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/ayushk8987/NeatCode/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/ayushk8987/NeatCode/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/ayushk8987/NeatCode/tree/master/0925-long-pressed-name) |
 | [2785-sort-vowels-in-a-string](https://github.com/ayushk8987/NeatCode/tree/master/2785-sort-vowels-in-a-string) |
 ## Trie
 |  |
