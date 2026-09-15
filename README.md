@@ -89,6 +89,7 @@
 | [0541-reverse-string-ii](https://github.com/ayushk8987/NeatCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayushk8987/NeatCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/ayushk8987/NeatCode/tree/master/0696-count-binary-substrings) |
+| [0824-goat-latin](https://github.com/ayushk8987/NeatCode/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/ayushk8987/NeatCode/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/ayushk8987/NeatCode/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/ayushk8987/NeatCode/tree/master/0917-reverse-only-letters) |
