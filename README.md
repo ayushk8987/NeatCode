@@ -85,6 +85,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushk8987/NeatCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ayushk8987/NeatCode/tree/master/0014-longest-common-prefix) |
+| [0115-distinct-subsequences](https://github.com/ayushk8987/NeatCode/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/ayushk8987/NeatCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/ayushk8987/NeatCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ayushk8987/NeatCode/tree/master/0443-string-compression) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushk8987/NeatCode/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/ayushk8987/NeatCode/tree/master/0115-distinct-subsequences) |
 ## Manacher
 |  |
 | ------- |
