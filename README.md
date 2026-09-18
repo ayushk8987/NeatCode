@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayushk8987/NeatCode/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/ayushk8987/NeatCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ayushk8987/NeatCode/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ayushk8987/NeatCode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/ayushk8987/NeatCode/tree/master/0575-distribute-candies) |
@@ -44,6 +45,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ayushk8987/NeatCode/tree/master/0047-permutations-ii) |
 | [0905-sort-array-by-parity](https://github.com/ayushk8987/NeatCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ayushk8987/NeatCode/tree/master/1051-height-checker) |
@@ -121,4 +123,5 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ayushk8987/NeatCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ayushk8987/NeatCode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
