@@ -12,6 +12,7 @@
 | [0575-distribute-candies](https://github.com/ayushk8987/NeatCode/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/ayushk8987/NeatCode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/ayushk8987/NeatCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/ayushk8987/NeatCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -26,6 +27,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ayushk8987/NeatCode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/ayushk8987/NeatCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/ayushk8987/NeatCode/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ayushk8987/NeatCode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -34,6 +36,7 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/ayushk8987/NeatCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/ayushk8987/NeatCode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/ayushk8987/NeatCode/tree/master/1260-shift-2d-grid) |
@@ -71,6 +74,7 @@
 | [0541-reverse-string-ii](https://github.com/ayushk8987/NeatCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayushk8987/NeatCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/ayushk8987/NeatCode/tree/master/0696-count-binary-substrings) |
+| [0832-flipping-an-image](https://github.com/ayushk8987/NeatCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/ayushk8987/NeatCode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/ayushk8987/NeatCode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/ayushk8987/NeatCode/tree/master/0917-reverse-only-letters) |
@@ -124,4 +128,8 @@
 | ------- |
 | [0046-permutations](https://github.com/ayushk8987/NeatCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayushk8987/NeatCode/tree/master/0047-permutations-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/ayushk8987/NeatCode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
