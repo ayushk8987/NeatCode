@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushk8987/NeatCode/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushk8987/NeatCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ayushk8987/NeatCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ayushk8987/NeatCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ayushk8987/NeatCode/tree/master/0443-string-compression) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushk8987/NeatCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ayushk8987/NeatCode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushk8987/NeatCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/ayushk8987/NeatCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayushk8987/NeatCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ayushk8987/NeatCode/tree/master/0205-isomorphic-strings) |
@@ -134,4 +136,20 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/ayushk8987/NeatCode/tree/master/0832-flipping-an-image) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushk8987/NeatCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushk8987/NeatCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushk8987/NeatCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushk8987/NeatCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
