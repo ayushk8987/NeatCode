@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayushk8987/NeatCode/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/ayushk8987/NeatCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/ayushk8987/NeatCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayushk8987/NeatCode/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ayushk8987/NeatCode/tree/master/0073-set-matrix-zeroes) |
@@ -152,4 +153,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushk8987/NeatCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ayushk8987/NeatCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
