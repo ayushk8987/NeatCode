@@ -16,6 +16,7 @@
 | [0832-flipping-an-image](https://github.com/ayushk8987/NeatCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/ayushk8987/NeatCode/tree/master/0905-sort-array-by-parity) |
+| [0941-valid-mountain-array](https://github.com/ayushk8987/NeatCode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ayushk8987/NeatCode/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/ayushk8987/NeatCode/tree/master/1260-shift-2d-grid) |
