@@ -160,6 +160,11 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ayushk8987/NeatCode/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/ayushk8987/NeatCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/ayushk8987/NeatCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayushk8987/NeatCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ayushk8987/NeatCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
