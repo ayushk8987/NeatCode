@@ -98,6 +98,7 @@
 | [0496-next-greater-element-i](https://github.com/ayushk8987/NeatCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/ayushk8987/NeatCode/tree/master/0575-distribute-candies) |
 | [0859-buddy-strings](https://github.com/ayushk8987/NeatCode/tree/master/0859-buddy-strings) |
+| [2716-minimize-string-length](https://github.com/ayushk8987/NeatCode/tree/master/2716-minimize-string-length) |
 ## String
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | [0917-reverse-only-letters](https://github.com/ayushk8987/NeatCode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/ayushk8987/NeatCode/tree/master/0925-long-pressed-name) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushk8987/NeatCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2716-minimize-string-length](https://github.com/ayushk8987/NeatCode/tree/master/2716-minimize-string-length) |
 | [2785-sort-vowels-in-a-string](https://github.com/ayushk8987/NeatCode/tree/master/2785-sort-vowels-in-a-string) |
 ## Trie
 |  |
