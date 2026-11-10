@@ -110,6 +110,7 @@
 | [0125-valid-palindrome](https://github.com/ayushk8987/NeatCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ayushk8987/NeatCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/ayushk8987/NeatCode/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/ayushk8987/NeatCode/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/ayushk8987/NeatCode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/ayushk8987/NeatCode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/ayushk8987/NeatCode/tree/master/0541-reverse-string-ii) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ayushk8987/NeatCode/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/ayushk8987/NeatCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ayushk8987/NeatCode/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/ayushk8987/NeatCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushk8987/NeatCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -187,6 +189,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/ayushk8987/NeatCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ayushk8987/NeatCode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
@@ -208,4 +211,8 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/ayushk8987/NeatCode/tree/master/0622-design-circular-queue) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/ayushk8987/NeatCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
