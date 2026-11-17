@@ -213,9 +213,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ayushk8987/NeatCode/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/ayushk8987/NeatCode/tree/master/0622-design-circular-queue) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ayushk8987/NeatCode/tree/master/0402-remove-k-digits) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ayushk8987/NeatCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
