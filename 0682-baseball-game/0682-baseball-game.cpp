@@ -1,30 +1,30 @@
 class Solution {
 public:
     int calPoints(vector<string>& ops) {
-        int value1;
-        int value2;
-        int ans = 0;
-        stack<int> stk;
+        vector<int> scores;
+        int sum = 0;
 
-        for (string i : ops) {
-            if (i == "C") {
-                stk.pop();
-            } else if (i == "D") {
-                stk.push(stk.top() * 2);
-            } else if (i == "+") {
-                value1 = stk.top();
-                stk.pop();
-                value2 = stk.top();
-                stk.push(value1);
-                stk.push(value1 + value2);
+        // Use const string& to prevent unnecessary string copies
+        for (const string& op : ops) {
+            if (op == "C") {
+                sum -= scores.back();
+                scores.pop_back();
+            } else if (op == "D") {
+                int new_score = scores.back() * 2;
+                sum += new_score;
+                scores.push_back(new_score);
+            } else if (op == "+") {
+                int n = scores.size();
+                int new_score = scores[n - 1] + scores[n - 2];
+                sum += new_score;
+                scores.push_back(new_score);
             } else {
-                stk.push(stoi(i)); // stoi() to convert string into integer
+                int new_score = stoi(op);
+                sum += new_score;
+                scores.push_back(new_score);
             }
         }
-        while (stk.size() != 0) {
-            ans += stk.top();
-            stk.pop();
-        }
-        return ans;
+
+        return sum;
     }
 };
