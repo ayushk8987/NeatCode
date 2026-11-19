@@ -111,6 +111,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushk8987/NeatCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ayushk8987/NeatCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ayushk8987/NeatCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushk8987/NeatCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/ayushk8987/NeatCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayushk8987/NeatCode/tree/master/0125-valid-palindrome) |
@@ -137,6 +138,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushk8987/NeatCode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/ayushk8987/NeatCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ayushk8987/NeatCode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/ayushk8987/NeatCode/tree/master/0402-remove-k-digits) |
@@ -239,4 +241,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ayushk8987/NeatCode/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ayushk8987/NeatCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
