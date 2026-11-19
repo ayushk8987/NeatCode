@@ -13,6 +13,7 @@
 | [0566-reshape-the-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/ayushk8987/NeatCode/tree/master/0575-distribute-candies) |
 | [0622-design-circular-queue](https://github.com/ayushk8987/NeatCode/tree/master/0622-design-circular-queue) |
+| [0682-baseball-game](https://github.com/ayushk8987/NeatCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ayushk8987/NeatCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ayushk8987/NeatCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ayushk8987/NeatCode/tree/master/0735-asteroid-collision) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/ayushk8987/NeatCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ayushk8987/NeatCode/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/ayushk8987/NeatCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/ayushk8987/NeatCode/tree/master/0844-backspace-string-compare) |
@@ -143,6 +145,7 @@
 | [0234-palindrome-linked-list](https://github.com/ayushk8987/NeatCode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/ayushk8987/NeatCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ayushk8987/NeatCode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/ayushk8987/NeatCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ayushk8987/NeatCode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ayushk8987/NeatCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushk8987/NeatCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
