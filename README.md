@@ -17,6 +17,7 @@
 | [0704-binary-search](https://github.com/ayushk8987/NeatCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ayushk8987/NeatCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ayushk8987/NeatCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ayushk8987/NeatCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayushk8987/NeatCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/ayushk8987/NeatCode/tree/master/0832-flipping-an-image) |
@@ -147,6 +148,7 @@
 | [0496-next-greater-element-i](https://github.com/ayushk8987/NeatCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ayushk8987/NeatCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ayushk8987/NeatCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ayushk8987/NeatCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/ayushk8987/NeatCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushk8987/NeatCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
@@ -204,6 +206,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/ayushk8987/NeatCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ayushk8987/NeatCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/ayushk8987/NeatCode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
