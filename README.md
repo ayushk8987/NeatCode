@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayushk8987/NeatCode/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayushk8987/NeatCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/ayushk8987/NeatCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayushk8987/NeatCode/tree/master/0047-permutations-ii) |
@@ -204,6 +205,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayushk8987/NeatCode/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/ayushk8987/NeatCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushk8987/NeatCode/tree/master/0349-intersection-of-two-arrays) |
