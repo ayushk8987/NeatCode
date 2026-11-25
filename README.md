@@ -23,6 +23,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayushk8987/NeatCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/ayushk8987/NeatCode/tree/master/0832-flipping-an-image) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ayushk8987/NeatCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/ayushk8987/NeatCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayushk8987/NeatCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -208,6 +209,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ayushk8987/NeatCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ayushk8987/NeatCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayushk8987/NeatCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ayushk8987/NeatCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushk8987/NeatCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Interactive
 |  |
@@ -272,4 +274,8 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/ayushk8987/NeatCode/tree/master/1122-relative-sort-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ayushk8987/NeatCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
