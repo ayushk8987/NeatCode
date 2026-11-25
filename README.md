@@ -25,6 +25,7 @@
 | [0832-flipping-an-image](https://github.com/ayushk8987/NeatCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/ayushk8987/NeatCode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/ayushk8987/NeatCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/ayushk8987/NeatCode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ayushk8987/NeatCode/tree/master/1051-height-checker) |
@@ -68,6 +69,7 @@
 | [0088-merge-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushk8987/NeatCode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/ayushk8987/NeatCode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/ayushk8987/NeatCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ayushk8987/NeatCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ayushk8987/NeatCode/tree/master/1122-relative-sort-array) |
@@ -107,6 +109,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/ayushk8987/NeatCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/ayushk8987/NeatCode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/ayushk8987/NeatCode/tree/master/0917-reverse-only-letters) |
+| [0922-sort-array-by-parity-ii](https://github.com/ayushk8987/NeatCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/ayushk8987/NeatCode/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
