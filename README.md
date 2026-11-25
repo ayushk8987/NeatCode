@@ -28,6 +28,7 @@
 | [0941-valid-mountain-array](https://github.com/ayushk8987/NeatCode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ayushk8987/NeatCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/ayushk8987/NeatCode/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/ayushk8987/NeatCode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushk8987/NeatCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushk8987/NeatCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -69,16 +70,19 @@
 | [0905-sort-array-by-parity](https://github.com/ayushk8987/NeatCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ayushk8987/NeatCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/ayushk8987/NeatCode/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushk8987/NeatCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2785-sort-vowels-in-a-string](https://github.com/ayushk8987/NeatCode/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ayushk8987/NeatCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/ayushk8987/NeatCode/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ayushk8987/NeatCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/ayushk8987/NeatCode/tree/master/1122-relative-sort-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -115,6 +119,7 @@
 | [0496-next-greater-element-i](https://github.com/ayushk8987/NeatCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/ayushk8987/NeatCode/tree/master/0575-distribute-candies) |
 | [0859-buddy-strings](https://github.com/ayushk8987/NeatCode/tree/master/0859-buddy-strings) |
+| [1122-relative-sort-array](https://github.com/ayushk8987/NeatCode/tree/master/1122-relative-sort-array) |
 | [2716-minimize-string-length](https://github.com/ayushk8987/NeatCode/tree/master/2716-minimize-string-length) |
 ## String
 |  |
@@ -260,4 +265,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushk8987/NeatCode/tree/master/0020-valid-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/ayushk8987/NeatCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
