@@ -9,6 +9,7 @@
 | [0046-permutations](https://github.com/ayushk8987/NeatCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayushk8987/NeatCode/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ayushk8987/NeatCode/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0088-merge-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/ayushk8987/NeatCode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/ayushk8987/NeatCode/tree/master/0575-distribute-candies) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ayushk8987/NeatCode/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/ayushk8987/NeatCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ayushk8987/NeatCode/tree/master/1051-height-checker) |
@@ -84,6 +86,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushk8987/NeatCode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushk8987/NeatCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ayushk8987/NeatCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ayushk8987/NeatCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/ayushk8987/NeatCode/tree/master/0234-palindrome-linked-list) |
