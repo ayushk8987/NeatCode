@@ -203,6 +203,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushk8987/NeatCode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushk8987/NeatCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/ayushk8987/NeatCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/ayushk8987/NeatCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ayushk8987/NeatCode/tree/master/0225-implement-stack-using-queues) |
@@ -363,4 +364,16 @@
 |  |
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/ayushk8987/NeatCode/tree/master/0883-projection-area-of-3d-shapes) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushk8987/NeatCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushk8987/NeatCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushk8987/NeatCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
