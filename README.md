@@ -188,6 +188,7 @@
 | [0917-reverse-only-letters](https://github.com/ayushk8987/NeatCode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/ayushk8987/NeatCode/tree/master/0925-long-pressed-name) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushk8987/NeatCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/ayushk8987/NeatCode/tree/master/1544-make-the-string-great) |
 | [2716-minimize-string-length](https://github.com/ayushk8987/NeatCode/tree/master/2716-minimize-string-length) |
 | [2785-sort-vowels-in-a-string](https://github.com/ayushk8987/NeatCode/tree/master/2785-sort-vowels-in-a-string) |
 ## Trie
@@ -208,6 +209,7 @@
 | [0739-daily-temperatures](https://github.com/ayushk8987/NeatCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/ayushk8987/NeatCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushk8987/NeatCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/ayushk8987/NeatCode/tree/master/1544-make-the-string-great) |
 ## Dynamic Programming
 |  |
 | ------- |
