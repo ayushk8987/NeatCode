@@ -183,6 +183,7 @@
 | [0205-isomorphic-strings](https://github.com/ayushk8987/NeatCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayushk8987/NeatCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayushk8987/NeatCode/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/ayushk8987/NeatCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ayushk8987/NeatCode/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/ayushk8987/NeatCode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/ayushk8987/NeatCode/tree/master/0520-detect-capital) |
@@ -212,6 +213,7 @@
 | [0225-implement-stack-using-queues](https://github.com/ayushk8987/NeatCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ayushk8987/NeatCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ayushk8987/NeatCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/ayushk8987/NeatCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ayushk8987/NeatCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ayushk8987/NeatCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ayushk8987/NeatCode/tree/master/0682-baseball-game) |
@@ -341,6 +343,7 @@
 | [0203-remove-linked-list-elements](https://github.com/ayushk8987/NeatCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayushk8987/NeatCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ayushk8987/NeatCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/ayushk8987/NeatCode/tree/master/0394-decode-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
