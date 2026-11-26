@@ -1,24 +1,25 @@
 class MinStack {
 private:
-    std::stack<std::pair<int, int>> st;
+    std::vector<std::pair<int, int>> st;
 public:
     MinStack() {
+        st.reserve(30000); 
     }
     void push(int val) {
         if (st.empty()) {
-            st.push({val, val});
+            st.push_back({val, val});
         } else {
-            st.push({val, std::min(val, st.top().second)});
+            st.push_back({val, std::min(val, st.back().second)});
         }
     }
     void pop() {
-        st.pop();
+        st.pop_back();
     }
     int top() {
-        return st.top().first;
+        return st.back().first;
     }
     int getMin() {
-        return st.top().second;
+        return st.back().second;
     }
 };
 
