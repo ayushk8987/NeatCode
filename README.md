@@ -97,6 +97,7 @@
 | [0047-permutations-ii](https://github.com/ayushk8987/NeatCode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ayushk8987/NeatCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ayushk8987/NeatCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushk8987/NeatCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ayushk8987/NeatCode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/ayushk8987/NeatCode/tree/master/0905-sort-array-by-parity) |
@@ -155,6 +156,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushk8987/NeatCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ayushk8987/NeatCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ayushk8987/NeatCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ayushk8987/NeatCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushk8987/NeatCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushk8987/NeatCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ayushk8987/NeatCode/tree/master/0496-next-greater-element-i) |
@@ -172,6 +174,7 @@
 | [0115-distinct-subsequences](https://github.com/ayushk8987/NeatCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayushk8987/NeatCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ayushk8987/NeatCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ayushk8987/NeatCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayushk8987/NeatCode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/ayushk8987/NeatCode/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/ayushk8987/NeatCode/tree/master/0443-string-compression) |
