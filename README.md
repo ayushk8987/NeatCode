@@ -36,6 +36,7 @@
 | [0832-flipping-an-image](https://github.com/ayushk8987/NeatCode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushk8987/NeatCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/ayushk8987/NeatCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0905-sort-array-by-parity](https://github.com/ayushk8987/NeatCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayushk8987/NeatCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/ayushk8987/NeatCode/tree/master/0941-valid-mountain-array) |
@@ -57,6 +58,7 @@
 | [0766-toeplitz-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/ayushk8987/NeatCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/ayushk8987/NeatCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/ayushk8987/NeatCode/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushk8987/NeatCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ayushk8987/NeatCode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ayushk8987/NeatCode/tree/master/0009-palindrome-number) |
+| [0883-projection-area-of-3d-shapes](https://github.com/ayushk8987/NeatCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushk8987/NeatCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
@@ -313,4 +316,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayushk8987/NeatCode/tree/master/0169-majority-element) |
+## Geometry
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/ayushk8987/NeatCode/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
