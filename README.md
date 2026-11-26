@@ -16,6 +16,7 @@
 | [0496-next-greater-element-i](https://github.com/ayushk8987/NeatCode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/ayushk8987/NeatCode/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/ayushk8987/NeatCode/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/ayushk8987/NeatCode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/ayushk8987/NeatCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ayushk8987/NeatCode/tree/master/0704-binary-search) |
@@ -263,6 +264,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ayushk8987/NeatCode/tree/master/0402-remove-k-digits) |
+| [0605-can-place-flowers](https://github.com/ayushk8987/NeatCode/tree/master/0605-can-place-flowers) |
 ## Recursion
 |  |
 | ------- |
