@@ -209,6 +209,7 @@
 | [0735-asteroid-collision](https://github.com/ayushk8987/NeatCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ayushk8987/NeatCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/ayushk8987/NeatCode/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/ayushk8987/NeatCode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushk8987/NeatCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/ayushk8987/NeatCode/tree/master/1544-make-the-string-great) |
 ## Dynamic Programming
@@ -274,6 +275,7 @@
 | [0402-remove-k-digits](https://github.com/ayushk8987/NeatCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ayushk8987/NeatCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ayushk8987/NeatCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/ayushk8987/NeatCode/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
@@ -281,6 +283,7 @@
 | [0225-implement-stack-using-queues](https://github.com/ayushk8987/NeatCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ayushk8987/NeatCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/ayushk8987/NeatCode/tree/master/0622-design-circular-queue) |
+| [0901-online-stock-span](https://github.com/ayushk8987/NeatCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/ayushk8987/NeatCode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -292,6 +295,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/ayushk8987/NeatCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/ayushk8987/NeatCode/tree/master/0933-number-of-recent-calls) |
 ## Linked List
 |  |
