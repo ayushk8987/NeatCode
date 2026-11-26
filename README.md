@@ -13,6 +13,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ayushk8987/NeatCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushk8987/NeatCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/ayushk8987/NeatCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ayushk8987/NeatCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ayushk8987/NeatCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushk8987/NeatCode/tree/master/0349-intersection-of-two-arrays) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayushk8987/NeatCode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/ayushk8987/NeatCode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/ayushk8987/NeatCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushk8987/NeatCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ayushk8987/NeatCode/tree/master/0704-binary-search) |
