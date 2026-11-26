@@ -11,6 +11,7 @@
 | [0047-permutations-ii](https://github.com/ayushk8987/NeatCode/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ayushk8987/NeatCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/ayushk8987/NeatCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushk8987/NeatCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/ayushk8987/NeatCode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0566-reshape-the-matrix) |
@@ -101,6 +102,7 @@
 | [0141-linked-list-cycle](https://github.com/ayushk8987/NeatCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushk8987/NeatCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ayushk8987/NeatCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/ayushk8987/NeatCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ayushk8987/NeatCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushk8987/NeatCode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/ayushk8987/NeatCode/tree/master/0443-string-compression) |
