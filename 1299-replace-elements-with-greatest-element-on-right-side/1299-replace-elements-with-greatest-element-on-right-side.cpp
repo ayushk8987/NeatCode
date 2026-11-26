@@ -1,18 +1,17 @@
 class Solution {
 public:
-    vector<int> replaceElements(vector<int>& arr) {
-        int n = arr.size();
-        vector<int> result(n, -1);
-        if (n == 0) return result; 
-        for (int i = 0; i < n - 1; i++)
+    vector<int> replaceElements(vector<int>& arr) 
+	{
+        stack<int> hello;
+        vector<int> ans (1,-1); 
+        hello.push(arr[arr.size()-1]); 
+        for (int i=arr.size()-2; i>=0 ; i--) 
         {
-            int maxRight = arr[i + 1];
-            for (int j = i + 2; j < n; j++)
-            {
-                maxRight = max(maxRight, arr[j]);
-            }
-            result[i] = maxRight;
+            ans.push_back(hello.top());
+            if (hello.top()<arr[i]) 
+                hello.push(arr[i]); 
         }
-        return result;
+        reverse(ans.begin(),ans.end());
+        return ans;
     }
 };
