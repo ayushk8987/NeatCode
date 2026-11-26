@@ -11,6 +11,7 @@
 | [0047-permutations-ii](https://github.com/ayushk8987/NeatCode/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ayushk8987/NeatCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushk8987/NeatCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ayushk8987/NeatCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ayushk8987/NeatCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushk8987/NeatCode/tree/master/0349-intersection-of-two-arrays) |
@@ -186,6 +187,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushk8987/NeatCode/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/ayushk8987/NeatCode/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushk8987/NeatCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Manacher
 |  |
 | ------- |
