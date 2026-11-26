@@ -49,6 +49,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushk8987/NeatCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ayushk8987/NeatCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ayushk8987/NeatCode/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ayushk8987/NeatCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushk8987/NeatCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ayushk8987/NeatCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ayushk8987/NeatCode/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ayushk8987/NeatCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Simulation
 |  |
 | ------- |
