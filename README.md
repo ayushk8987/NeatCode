@@ -11,6 +11,7 @@
 | [0046-permutations](https://github.com/ayushk8987/NeatCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayushk8987/NeatCode/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ayushk8987/NeatCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushk8987/NeatCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/ayushk8987/NeatCode/tree/master/0162-find-peak-element) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ayushk8987/NeatCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/ayushk8987/NeatCode/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0766-toeplitz-matrix) |
@@ -236,6 +238,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushk8987/NeatCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayushk8987/NeatCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/ayushk8987/NeatCode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/ayushk8987/NeatCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushk8987/NeatCode/tree/master/0349-intersection-of-two-arrays) |
