@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/ayushk8987/NeatCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushk8987/NeatCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ayushk8987/NeatCode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushk8987/NeatCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ayushk8987/NeatCode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/ayushk8987/NeatCode/tree/master/0575-distribute-candies) |
@@ -132,6 +133,7 @@
 | [0169-majority-element](https://github.com/ayushk8987/NeatCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ayushk8987/NeatCode/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushk8987/NeatCode/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushk8987/NeatCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ayushk8987/NeatCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/ayushk8987/NeatCode/tree/master/0575-distribute-candies) |
 | [0859-buddy-strings](https://github.com/ayushk8987/NeatCode/tree/master/0859-buddy-strings) |
