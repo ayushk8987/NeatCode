@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/ayushk8987/NeatCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/ayushk8987/NeatCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayushk8987/NeatCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/ayushk8987/NeatCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ayushk8987/NeatCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0074-search-a-2d-matrix) |
@@ -56,6 +57,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ayushk8987/NeatCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ayushk8987/NeatCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayushk8987/NeatCode/tree/master/0074-search-a-2d-matrix) |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ayushk8987/NeatCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/ayushk8987/NeatCode/tree/master/0048-rotate-image) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ayushk8987/NeatCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushk8987/NeatCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
